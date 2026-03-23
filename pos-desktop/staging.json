@@ -1,6 +1,6 @@
 {
   "environment": "staging",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "lastUpdated": "2026-03-22",
   "services": {
     "authServiceUrl": "https://auth.chillsell.online",
@@ -9,7 +9,8 @@
     "billingServiceUrl": "https://billing.chillsell.online",
     "productsServiceUrl": "https://product.chillsell.online",
     "lookupServiceUrl": "https://lookup.victoriosoft.online",
-    "verificationUrl": "https://verificar.chillsell.online"
+    "verificationUrl": "https://verificar.chillsell.online",
+    "lookupApiKey": "cs-api-key-staging-2024-secure"
   },
   "notes": {
     "productsServiceUrl": "Sin 's' - es product.chillsell.online, NO products",
