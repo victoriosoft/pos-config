@@ -1,0 +1,18 @@
+{
+  "environment": "production",
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-22",
+  "services": {
+    "authServiceUrl": "https://auth.chillsell.online",
+    "posServiceUrl": "https://pos.chillsell.online",
+    "customerServiceUrl": "https://customer.chillsell.online",
+    "billingServiceUrl": "https://billing.chillsell.online",
+    "productsServiceUrl": "https://product.chillsell.online",
+    "lookupServiceUrl": "https://lookup.victoriosoft.online",
+    "verificationUrl": "https://verificar.chillsell.online"
+  },
+  "notes": {
+    "productsServiceUrl": "Sin 's' - es product.chillsell.online, NO products",
+    "source": "Estas URLs apuntan al servidor de produccion (pendiente configurar)"
+  }
+}
